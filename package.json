@@ -1,0 +1,22 @@
+{
+  "name": "jquery-editable-select",
+  "version": "1.0.0",
+  "description": "jQuery Editable Select is a jQuery plugin that transforms a select into an input field where single elements are shown in real-time according to the entered characters. It scales down to a real select list when javascript is not available.",
+  "main": "source/jquery.editable-select.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsanta/jquery-editable-select.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsanta/jquery-editable-select/issues"
+  },
+  "homepage": "https://github.com/gsanta/jquery-editable-select#readme"
+}
